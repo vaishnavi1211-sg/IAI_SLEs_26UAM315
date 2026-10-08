@@ -1,11 +1,9 @@
 SLE-3: Architectural Design using Full C4 Model
 BFS & DFS Graph Search System
-
 Name: Vaishnavi Sudhir Ghodake
 PRN: 26UAM315
 Division: A
 Course: 02AML204 – Introduction to Artificial Intelligence  
-
 1. Project Description
 This SLE-3 presents the architecture of the BFS & DFS Graph Search System using the complete C4 Model.
 The system continues the BFS and DFS implementation and empirical performance analysis completed in SLE-2. It takes a graph, start node, and goal node as input, performs BFS or DFS, and records the search path, nodes expanded, and execution time. Py-Spy is used for profiling the search execution.
